@@ -1,4 +1,4 @@
-/* Fonte customizada */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 
-/* Cabeçalho */
+
 header {
     background-color: #333;
     color: #fff;
@@ -42,7 +42,7 @@ nav ul li a:hover {
     background-color: #575757;
 }
 
-/* Seções principais */
+
 section {
     padding: 20px;
     background-color: #fff;
@@ -59,7 +59,7 @@ section h2 {
     font-size: 24px;
 }
 
-/* Estilo específico para cada seção */
+
 #sports {
     background-color: #e3f2fd;
 }
@@ -76,7 +76,7 @@ section h2 {
     background-color: #e8f5e9;
 }
 
-/* Artigos */
+
 article {
     background-color: #fff;
     padding: 20px;
@@ -114,7 +114,7 @@ article a:hover {
     text-decoration: underline;
 }
 
-/* Time do artigo */
+
 article header time {
     display: block;
     font-size: 14px;
